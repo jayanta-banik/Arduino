@@ -1,0 +1,13 @@
+car with bluetooth
+car with nrf24lo1+ 
+car with gyroscope nrf24lo1
+car with esp8266
+-----------------------------------------------------------------------------
+auto lights- manual overwrite flag
+object avoiding(accident avoiding)
+horn buzzer
+hyper buzzer
+-----------------------------------------------------------------------------
+line follower
+side follower
+-----------------------------------------------------------------------------
